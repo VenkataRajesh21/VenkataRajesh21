@@ -1,6 +1,6 @@
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=VenkataRajesh21&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=VenkataRajesh21&color=FF1493&style=flat-square)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 # Hi, I'm **Venkata Rajesh** 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver;Innovation+Focused)](https://github.com/VenkataRajesh21)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver;Innovation+Focused)](https://github.com/VenkataRajesh21)
 
 </div>
 
@@ -56,11 +56,11 @@ I'm a passionate **Full Stack Developer** dedicated to building scalable, effici
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataRajesh21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataRajesh21&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRajesh21&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRajesh21&theme=radical&hide_border=false&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VenkataRajesh21&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VenkataRajesh21&theme=radical&hide_border=false)
 
 </div>
 
@@ -70,7 +70,7 @@ I'm a passionate **Full Stack Developer** dedicated to building scalable, effici
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=VenkataRajesh21&theme=onedark&column=4&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VenkataRajesh21&theme=radical&column=4&row=1&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

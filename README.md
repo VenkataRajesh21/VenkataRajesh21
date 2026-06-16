@@ -37,23 +37,17 @@ I'm a passionate **Full Stack Developer** dedicated to building scalable, effici
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -62,7 +56,7 @@ I'm a passionate **Full Stack Developer** dedicated to building scalable, effici
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataRajesh21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataRajesh21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataRajesh21&theme=tokyonight&hide_border=true&layout=compact)
 
@@ -76,7 +70,7 @@ I'm a passionate **Full Stack Developer** dedicated to building scalable, effici
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=VenkataRajesh21&theme=onedark&column=4&row=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VenkataRajesh21&theme=onedark&column=4&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
